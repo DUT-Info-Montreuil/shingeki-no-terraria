@@ -1,6 +1,6 @@
 # shingeki-no-terraria
 
-Hamidi Yassine 
-chouchane Rayan 
+Hamidi Yassine, 
+chouchane Rayan, 
 Jouini Naoufel
 
